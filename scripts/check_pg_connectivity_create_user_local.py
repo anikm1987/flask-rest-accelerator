@@ -1,7 +1,7 @@
 # This python code is to test the connectivity to local database instance.  
 # This code can also be used to create primary users in your database if required. 
 # make sure schema_user_create_flag=True is enabled.
-# This is for local testing of postgres using docker install using - 
+# This is for local testing of postgres in local ubuntu system or installed using docker command - 
 # docker run -p 5432:5432 --name mypostgres -e POSTGRES_PASSWORD=postgres -d postgres:11-alpine
 # Initial draft - Aniket Mukherjee
 
