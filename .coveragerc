@@ -1,0 +1,2 @@
+ [run]
+ omit = migrations/*,venv/*,test_bloglist.py,manage.py
