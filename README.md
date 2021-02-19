@@ -7,7 +7,7 @@ Python flask rest api using TDD
 
 Quick Start
 ----------
-You can frok the repository by selecting this repository. Made neccessary changes according to your project name for below comand
+You can fork the repository by selecting this repository. Made neccessary changes according to your project name for below comand
 
 1. Clone the repo
 ```
