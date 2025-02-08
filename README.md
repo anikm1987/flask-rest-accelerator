@@ -80,3 +80,4 @@ python test_bloglist.py
 py.test --cov=. --cov-config .coveragerc
 ```
 
+You are done.
